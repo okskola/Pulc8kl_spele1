@@ -4,3 +4,4 @@ Kāršu spēle
 Torņu aizsardzības spēle
 Autosacīkstes
 Piedzīvojumu spēle
+Vēl idejas
