@@ -2,3 +2,4 @@
 
 Kāršu spēle
 Torņu aizsardzības spēle
+Autosacīkstes
