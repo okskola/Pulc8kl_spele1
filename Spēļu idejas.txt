@@ -3,4 +3,5 @@
 Kāršu spēle
 Torņu aizsardzības spēle
 Piedzīvojumu spēle
-
+Autosacīkstes
+Piedzīvojumu spēle
