@@ -7,3 +7,6 @@ Piedzīvojumu spēle
 Vēl idejas
 
 Miks Henrijs Hincenbergs. Labprāt strādātu pie tower.py
+
+Jānis Helvijs Jaunzems
+Piestrādāšu pie Bullet.py
