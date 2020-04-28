@@ -5,3 +5,5 @@ Torņu aizsardzības spēle
 Autosacīkstes
 Piedzīvojumu spēle
 Vēl idejas
+
+Miks Henrijs Hincenbergs. Labprāt strādātu pie tower.py
